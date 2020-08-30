@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:state_enabled="true" android:drawable="@drawable/enable_button_border" />
+    <!-- Standard background color -->
+    <item android:drawable="@drawable/disable_button_border" />
+</selector>
